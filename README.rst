@@ -2,7 +2,12 @@
 thrift_json
 ===============================
 
+about fork: Update for Python3 and prettyjson2TJSON
 
+
+
+Anything below might not be true
+--------
 .. image:: https://img.shields.io/pypi/v/thrift_json.svg
         :target: https://pypi.python.org/pypi/thrift_json
 
